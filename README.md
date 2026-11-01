@@ -6,11 +6,11 @@ A foundational backend development lab demonstrating how to build web servers us
 
 ## 🌐 Live Deployment
 
-🔗 **Live URL:** [https://lab01-silk.vercel.app/](https://lab01-silk.vercel.app/)
+🔗 **Live URL:** [https://labreport1-saranyajinkala087-ops.vercel.app/](https://labreport1-saranyajinkala087-ops.vercel.app/)
 
-- 🏠 **Home:** [https://lab01-silk.vercel.app/](https://lab01-silk.vercel.app/)
-- 👤 **About:** [https://lab01-silk.vercel.app/about](https://lab01-silk.vercel.app/about)
-- ⏰ **Time:** [https://lab01-silk.vercel.app/time](https://lab01-silk.vercel.app/time)
+- 🏠 **Home:** [https://labreport1-saranyajinkala087-ops.vercel.app/](https://labreport1-saranyajinkala087-ops.vercel.app/)
+- 👤 **About:** [https://labreport1-saranyajinkala087-ops.vercel.app/about](https://labreport1-saranyajinkala087-ops.vercel.app/about)
+- ⏰ **Time:** [https://labreport1-saranyajinkala087-ops.vercel.app/time](https://labreport1-saranyajinkala087-ops.vercel.app/time)
 
 ---
 
@@ -90,10 +90,10 @@ node server-http.js
 
 | Method | Endpoint | Live Link | Description | Sample Response |
 | :--- | :--- | :--- | :--- | :--- |
-| `GET` | `/` | [Open /](https://lab01-silk.vercel.app/) | Welcome page | `Welcome to my Node.js and Express Lab!` |
-| `GET` | `/about` | [Open /about](https://lab01-silk.vercel.app/about) | Student / author details | `{"name": "J.Saranya", "section": "CSE AIML - 2B"}` |
-| `GET` | `/time` | [Open /time](https://lab01-silk.vercel.app/time) | Current date and timestamp | `{"currentDateTime": "2026-10-16T15:46:26.261Z"}` |
-| `*` | Any other route | [Open /random](https://lab01-silk.vercel.app/random) | 404 error handler | `404 - Page Not Found` |
+| `GET` | `/` | [Open /](https://labreport1-saranyajinkala087-ops.vercel.app/) | Welcome page | `Welcome to my Node.js and Express Lab!` |
+| `GET` | `/about` | [Open /about](https://labreport1-saranyajinkala087-ops.vercel.app/about) | Student / author details | `{"name": "J.Saranya", "section": "CSE AIML - 2B"}` |
+| `GET` | `/time` | [Open /time](https://labreport1-saranyajinkala087-ops.vercel.app/time) | Current date and timestamp | `{"currentDateTime": "2026-10-16T15:46:26.261Z"}` |
+| `*` | Any other route | [Open /random](https://labreport1-saranyajinkala087-ops.vercel.app/random) | 404 error handler | `404 - Page Not Found` |
 
 ---
 
