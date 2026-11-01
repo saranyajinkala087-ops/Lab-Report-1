@@ -2,7 +2,7 @@
   "name": "bdf-lab-01",
   "version": "1.0.0",
   "description": "",
-  "main": "server-http.js",
+  "main": "index.js",
   "homepage": "https://lab01-silk.vercel.app/",
   "scripts": {
     "start": "node server-http.js",
